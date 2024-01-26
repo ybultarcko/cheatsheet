@@ -13,6 +13,8 @@ EXTENSIONS
 - Auto Rename Tag
 - Auto Close Tag
 - HTML CSS Support
+- Vetur
+- Live Server
 
 ### Node.js
 
