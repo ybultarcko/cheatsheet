@@ -13,8 +13,10 @@ EXTENSIONS
 - Auto Rename Tag
 - Auto Close Tag
 - HTML CSS Support
-- Vetur
+- Volar
 - Live Server
+- Japanese Language Pack for VS Code
+- TypeScript Vue Plugin
 
 ### Node.js
 
