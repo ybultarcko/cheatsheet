@@ -27,6 +27,18 @@ EXTENSIONS
 - code ./
 - npm start
 
+### Vue.js
+
+- install Node.js
+- ターミナル起動
+- node -v
+- cd [directory name]
+- npm init vue@latest
+- cd [project name]
+- npm install
+- npm run dev
+- 開発終了後 "npm run build"で dist フォルダ生成
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
